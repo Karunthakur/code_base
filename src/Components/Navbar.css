@@ -1,0 +1,32 @@
+.navbarContainer {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    font-size: 13px;
+    max-width: 100%;
+    width: 100%;
+}
+
+.navLinksList {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    list-style-type: none;
+    margin: 8px;
+    padding: 0;
+}
+
+li {
+    margin: 8px;
+}
+
+
+.navIcons {
+    color: #90a4ae;
+}
+
+.navIcons:hover {
+    color: #546e7a;
+    background-color: white;
+    transition: all 0.3s ease-in-out
+}

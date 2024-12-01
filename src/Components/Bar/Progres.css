@@ -1,0 +1,48 @@
+.progress-bar {
+    margin: 20px 20%;
+}
+
+.progress-bar .value > div {
+    text-align: center;
+    display: flex;
+}
+
+.progress-bar .scale .graduation {
+    text-align: center;
+}
+
+.progress-bar .bar > div {
+    display: flex;
+    height: 10px;
+}
+
+.progress-bar .bar > div:first-of-type {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.progress-bar .bar > div:last-of-type {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.progress-bar .legend {
+    text-align: center;
+}
+
+
+.progress-bar .legend > div {
+    display: inline-block;
+    margin: 0 5px;
+    text-align: center;
+}
+
+.progress-bar .legend > div .dot {
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+.progress-bar .legend > div .label {
+    margin-left: 2px;
+    vertical-align: middle;
+}

@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Karunthakur/code_base.git/static/css/main.ec470824.css",
+    "main.js": "/Karunthakur/code_base.git/static/js/main.e486a47f.js",
+    "static/js/237.86013d2e.chunk.js": "/Karunthakur/code_base.git/static/js/237.86013d2e.chunk.js",
+    "static/css/526.340c12da.chunk.css": "/Karunthakur/code_base.git/static/css/526.340c12da.chunk.css",
+    "static/js/526.70ff9971.chunk.js": "/Karunthakur/code_base.git/static/js/526.70ff9971.chunk.js",
+    "static/js/453.9b0ccbb4.chunk.js": "/Karunthakur/code_base.git/static/js/453.9b0ccbb4.chunk.js",
+    "static/js/23.cfcf5984.chunk.js": "/Karunthakur/code_base.git/static/js/23.cfcf5984.chunk.js",
+    "index.html": "/Karunthakur/code_base.git/index.html",
+    "main.ec470824.css.map": "/Karunthakur/code_base.git/static/css/main.ec470824.css.map",
+    "main.e486a47f.js.map": "/Karunthakur/code_base.git/static/js/main.e486a47f.js.map",
+    "237.86013d2e.chunk.js.map": "/Karunthakur/code_base.git/static/js/237.86013d2e.chunk.js.map",
+    "526.340c12da.chunk.css.map": "/Karunthakur/code_base.git/static/css/526.340c12da.chunk.css.map",
+    "526.70ff9971.chunk.js.map": "/Karunthakur/code_base.git/static/js/526.70ff9971.chunk.js.map",
+    "453.9b0ccbb4.chunk.js.map": "/Karunthakur/code_base.git/static/js/453.9b0ccbb4.chunk.js.map",
+    "23.cfcf5984.chunk.js.map": "/Karunthakur/code_base.git/static/js/23.cfcf5984.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec470824.css",
+    "static/js/main.e486a47f.js"
+  ]
+}
